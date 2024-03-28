@@ -1,17 +1,19 @@
-#STUDENT MANAGEMENT SYSTEM
-##A console Java Object-Oriented Management system
-###Using Data structures and Sorting and Searching Algorithms
+# STUDENT MANAGEMENT SYSTEM
 
+## A console Java Object-Oriented Management system
 
-##Features
-Add a New Student: Input details like student ID, name, age, and grade to register a new student into the system.
+### Using Data structures and Sorting and Searching Algorithms
 
-Delete a Student: Remove a student's record from the system by specifying their unique ID.
+## Features
 
-Search for a Student: Find student details using their ID or name.
+- **Add a New Student**: Input details like student ID, name, age, and grade to register a new student into the system.
 
-Display All Students: View a list of all registered students along with their details.
+- **Delete a Student**: Remove a student's record from the system by specifying their unique ID.
 
-Sort Students: Organize students based on ID, name, age, or grade using different sorting algorithms.
+- **Search for a Student**: Find student details using their ID or name.
 
-####Broken down into 4 different files for code readability and understanding 
+- **Display All Students**: View a list of all registered students along with their details.
+
+- **Sort Students**: Organize students based on ID, name, age, or grade using different sorting algorithms.
+
+### Broken down into 4 different files for code readability and understanding
